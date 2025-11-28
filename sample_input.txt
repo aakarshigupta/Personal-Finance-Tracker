@@ -1,17 +1,43 @@
-2
-aakarshi
 1
-income
-5000
-salary
-2025-08-15
-August_Salary
-6
-2025-08
+Aakarsh Gupta
+5000.00
+2
+1
+1500.50
+College Fees
+2024-01-15
+2
+1
+250.75
+Pizza Dinner
+2024-01-10
+2
+1
+3000.00
+Internship Stipend
+2024-01-05
+2
+1
+120.25
+Uber Ride
+2024-01-12
+2
+1
+899.99
+New Headphones
+2024-01-08
+3
+1
 4
-2025-08
+1
 5
-2025-08
-7
-8
+1
+2024-01
+2
+1
+-100.00
+Invalid Transaction
+2024-01-20
 9
+0
+6
